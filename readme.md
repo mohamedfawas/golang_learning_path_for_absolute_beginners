@@ -15,7 +15,7 @@ Currently, I am learning Golang from scratch, I will add the links to resources 
 
 #### These are the revision notes I prepared while learning golang fundamentals, you can use this for additional notes
 
-- Notion notes of week 1 (revision notes)[https://fringe-walker-61c.notion.site/Golang-week-1-resources-16da515394c74d3e95a91f39313f1569?pvs=4]
+- Notion notes of week 1 [revision notes](https://fringe-walker-61c.notion.site/Golang-week-1-resources-16da515394c74d3e95a91f39313f1569?pvs=4)
 
 </details>
 
