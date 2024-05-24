@@ -7,7 +7,8 @@ Currently, I am learning Golang from scratch, I will add the links to resources 
 
 <details>
   <summary><h2> Week 1 (Click the arrow to expand) </h2></summary>
-    - [Go class youtube lectures by Matt KØDVB](https://www.youtube.com/watch?v=iDQAZEJK8lI&list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6) : This lecture series helps you to learn go lang by preparing tests while learning. 
+- Go class youtube lectures by Matt KØDVB helps you to learn go lang by preparing tests while learning. You can watch this playlist from [here](https://www.youtube.com/watch?v=iDQAZEJK8lI&list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6)
+
 
 </details>
 
