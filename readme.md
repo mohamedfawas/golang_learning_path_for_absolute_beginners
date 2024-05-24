@@ -7,8 +7,15 @@ Currently, I am learning Golang from scratch, I will add the links to resources 
 
 <details>
   <summary><h2> Week 1 (Click the arrow to expand) </h2></summary>
-- Go class youtube lectures by Matt KØDVB helps you to learn go lang by preparing tests while learning. You can watch this playlist from [here](https://www.youtube.com/watch?v=iDQAZEJK8lI&list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6)
 
+#### Learn the Golang fundamentals from the given resources
+
+- Go class youtube lectures by Matt KØDVB helps you to learn go lang by preparing tests while learning. (https://www.youtube.com/watch?v=iDQAZEJK8lI&list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6)
+- Go by tests website : The tutorials shown in this website is aligned with the lecture series I posted above. (https://quii.gitbook.io/learn-go-with-tests)
+
+#### These are the revision notes I prepared while learning golang fundamentals, you can use this for additional notes
+
+- Notion notes of week 1 (revision notes)[https://fringe-walker-61c.notion.site/Golang-week-1-resources-16da515394c74d3e95a91f39313f1569?pvs=4]
 
 </details>
 
