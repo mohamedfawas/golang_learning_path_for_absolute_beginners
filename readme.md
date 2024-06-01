@@ -21,7 +21,7 @@ Currently, I am learning Golang from scratch, I will add the links to resources 
 
 <details>
   <summary><h2> Week 2 </h2></summary>
-    Hia how are you
+    Add more details soon...
 
 </details>
 
