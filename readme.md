@@ -25,3 +25,11 @@ Currently, I am learning Golang from scratch, I will add the links to resources 
 
 </details>
 
+<details>
+  <summary><h2> Week 3 </h2></summary>
+
+#### Learn Basic database concepts from geeksforgeeks 
+- I made a notion note while learning these theory, you can see my notes from this [link](https://fringe-walker-61c.notion.site/Golang-week-3-resources-9792ec77e45a481abfbc6a47f1796807?pvs=4).
+
+</details>
+
